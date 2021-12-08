@@ -32,6 +32,7 @@
 - [Testing](#testing)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
+- [Index](#index)
 
 ## Platforms
 
