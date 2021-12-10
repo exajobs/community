@@ -31,7 +31,7 @@
 - [Events](#events)
 - [Testing](#testing)
 - [Articles](#articles)
-- [Talks](talks)
+- [Talks](#talks)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
 - [Index](#index)
