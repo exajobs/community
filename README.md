@@ -30,6 +30,8 @@
 - [Higher Education](#higher-education)
 - [Events](#events)
 - [Testing](#testing)
+- [Articles](#articles)
+- [Talks](talks)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
 - [Index](#index)
@@ -1380,7 +1382,7 @@
 * [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
 * [Quora]() - topic on Quora
 
-[Back to top](#awesome-community)
+[Back to top](#community)
 
 
 ### Hybrid apps
@@ -1392,7 +1394,7 @@
 * [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
 * [Quora]() - topic on Quora
 
-[Back to top](#awesome-community)
+[Back to top](#community)
 
 
 ### iOS
@@ -1404,7 +1406,7 @@
 * [Freenode](http://webchat.freenode.net/?channels=) - large and active IRC channel
 * [Quora](https://www.quora.com/iOS) - topic on Quora
 
-[Back to top](#awesome-community)
+[Back to top](#community)
 
 
 ### Linux
@@ -1415,7 +1417,7 @@
 * [Freenode](http://webchat.freenode.net/?channels=linux) - Active support IRC channel users
 * [Linked.in](https://www.linkedin.com/grp/home?gid=65688) - large and active discussion group on Linked.in
 
-[Back to top](#awesome-community)
+[Back to top](#community)
 
 
 ### Node.js
@@ -1427,7 +1429,7 @@
 * [Freenode](http://irc.lc/freenode/Node.js) - large and active IRC channel
 * [Quora](https://www.quora.com/Node-js) - topic on Quora
 
-[Back to top](#awesome-community)
+[Back to top](#community)
 
 
 ### React Native
@@ -1440,7 +1442,7 @@
 * [Quora](https://www.quora.com/React-Native-Facebook) - topic on Quora
 * [Forum](https://discuss.reactjs.org/) - Official forums
 
-[Back to top](#awesome-community)
+[Back to top](#community)
 
 
 ### Xamarin
@@ -1452,7 +1454,7 @@
 * [Freenode](http://irc.lc/freenode/xamarin/) - large and active IRC channel
 * [Quora](https://www.quora.com/Xamarin) - topic on Quora
 
-[Back to top](#awesome-community)
+[Back to top](#community)
 
 
 ### watchOS
@@ -1462,7 +1464,7 @@
 * [Facebook](https://www.facebook.com/groups/AppleWatchDevs/) - large and active Facebook group
 * [IRC](http://irc.lc/freenode/watchOS/) - IRC channel
 
-[Back to top](#awesome-community)
+[Back to top](#community)
 
 
 ## Miscellaneous Communities
@@ -1472,7 +1474,7 @@
 * [OpenSourceDesign.net](http://opensourcedesign.net/) - A community of designers and developers pushing more open design processes and improving the user experience and interface design of open source software.
 * [IT Pro Community](https://www.electric.ai/it-pro-slack) - Connect and network with IT practitioners, decision-makers and C-level IT professionals
 
-[Back to top](#awesome-community)
+[Back to top](#community)
 
 
 ## Resources
