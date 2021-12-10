@@ -1040,7 +1040,7 @@
     * [watchOS](#watchos)
 * [Miscellaneous Communities](#miscellaneous-communities)
 * [Resources](#resources)
-    * [Articles](#articles2)
+    * [Articles](#articles)
     * [Books](#books)
     * [Miscellaneous Resources](#miscellaneous-resources)
 * [Looking for more lists like this?](#looking-for-more-lists-like-this)
