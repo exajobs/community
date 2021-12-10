@@ -707,6 +707,7 @@
 - [Lullaby Language](https://web.archive.org/web/20080820170238/http://www.ayeconference.com/Articles/LullabyLanguage.html) - Gerald Weinberg
 
 ## Talks
+
 #### Software Development
 
 * [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** [1:04:34]
