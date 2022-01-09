@@ -1786,7 +1786,7 @@
 * [Four types of open source communities](http://opensource.com/business/13/6/four-types-organizational-structures-within-open-source-communities)
 * [Best practices for community managers](http://opensource.com/business/13/12/five-community-management-tips)
 
-[Back to top](#awesome-community)
+[Back to top](##community-of-collections)
 
 
 ### Books
@@ -1795,7 +1795,7 @@
 
 * [The Art of Community Online](http://www.artofcommunityonline.org/) - Book, Building the New Age of Participation, [PDF](http://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf)
 
-[Back to top](#awesome-community)
+[Back to top](##community-of-collections)
 
 
 ### Miscellaneous Resources
@@ -1806,7 +1806,7 @@
 * [Hackr.io](https://hackr.io/) - A curated resource of programming courses, tutorials, and communities.
 * [Interview with Cal Evans](http://7php.com/php-interview-cal-evans/) - The undeniable icon of the PHP community.
 
-[Back to top](#awesome-community)
+[Back to top](##community-of-collections)
 
 
 ## Looking for more lists like this?
@@ -1826,7 +1826,7 @@
 * [awesome-speaking](https://github.com/matteofigus/awesome-speaking) - A collection of awesome resources about public speaking
 * [belarusian-it-communities](https://github.com/gleb-kosteiko/belarusian-it-communities) - List of belarusian IT communities
 
-[Back to top](#awesome-community)
+[Back to top](##community-of-collections)
 
 
 ## Contributing and License
