@@ -385,6 +385,8 @@
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
 
+[Back to top](#community-of-collections)
+
 ## Development Environment
 
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
@@ -763,6 +765,8 @@
 * [All I needed for FP I learned in High School Algebra](https://www.youtube.com/watch?v=epT1xgxSpFU) by **Eric Normand** [33:05]
 * [Solving Problems The Clojure Way](https://www.youtube.com/watch?v=vK1DazRK_a0) by **Rafal Dittwald** [01:02:25]
 
+[Back to top](#community-of-collections)
+
 #### Software Design
 
 * [Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) by **Robert C. Martin** [1:06:38]
@@ -847,6 +851,8 @@
 * [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) by **Robert C. Martin** [01:18:20]
 * [1968](https://www.youtube.com/watch?v=KjgvffBlWAg) by **Kevlin Henney** [56:44]
 * [DOOM’s Development: A Year of Madness](https://www.youtube.com/watch?v=eBU34NZhW7I) by **John Romero** [44:12]
+
+[Back to top](#community-of-collections)
 
 #### Databases
 
